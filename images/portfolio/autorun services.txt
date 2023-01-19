@@ -1,0 +1,48 @@
+ER Autorunsolutions CC
+
+
+1.Web Development
+	-database
+	-layout
+	-template
+	-media
+	-homepage
+	-CSS
+	-js
+	-internet
+
+2.Web hosting & Domain Registration
+	-advise on best hosting service and costs
+	-creation and registarton of domain name
+
+3.Networking
+	-setting up a client server
+	-setting up a printer server
+	
+4.IT Consultancy
+	-advice on https
+	-advice on antivirus
+	-adice on firewall
+	-advice on Internet service provider
+	-network reccomodations
+	-hardware suggestions
+
+5.Email Services
+	-email service
+	-email setup
+	-email facilitation
+	-email protection
+
+6. Software development
+	-point of sale program
+	-database system
+	-quotation program
+	
+7. Hardware
+	-computer components
+
+
+
+<iframe src="http://www.easyhrnam.org" height="300" width="250"></iframe>
+
+  <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item1.jpg"><i class="icon-eye-open"></i></a>
